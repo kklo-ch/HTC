@@ -6,4 +6,5 @@ Implementation of HTC algorithm.
 Implementation of TARank(H-index) in paper "A graph-traversal approach to identify influential nodes in a network".
 ## other_methods.py 
 Implementation of other comparison methods in paper "Node centrality inference via hypothesis testing".
-## p
+## experiment_SIR.py
+Simulation propagation experiment of 54 real networks on SIR Model.
